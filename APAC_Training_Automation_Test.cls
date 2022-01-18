@@ -52,7 +52,7 @@ public class APAC_Training_Automation_Test {
         testCase.AccountId = testAccount.id;
         testCase.ContactId=testContact.id;
         testCase.Status='Open';
-        testCase.recordtypeid = recordTypeIdTicket;
+        testCase.recordtypeid = recordTypeIdTicket; //comenting
         Insert testCase;
          VCT_Training__c trainingRec = new VCT_Training__c();
          trainingRec.Name='Training 1';
