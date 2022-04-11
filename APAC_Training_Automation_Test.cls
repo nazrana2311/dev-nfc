@@ -91,6 +91,7 @@ public class APAC_Training_Automation_Test1 {
         testAccount.shippingpostalcode='534350';
         testAccount.Annual_Ortho_Cases__c=10;
         testAccount.Promotion_Region__c = 'APAC -India';
+        //comments in new line
         insert testAccount;        
         Contact testContact = new Contact();
         testContact.Accountid=testAccount.id;
