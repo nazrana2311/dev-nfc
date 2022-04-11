@@ -4,5 +4,9 @@
         <members>ApexAbc2</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>HomeLabel__c.Information__c</members>
+        <name>CustomField</name>
+    </types>
     <version>54.0</version>
 </Package>
