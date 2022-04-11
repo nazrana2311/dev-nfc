@@ -46,7 +46,7 @@ public class APAC_Training_Automation_Test {
         testContact.Professional_Category__c='GP';
         testContact.phone='(000) 000-0000';    
         testContact.Email='Test@test11.com';
-        testContact.Segmentation_Program__c='Mentoring';
+        testContact.Segmentation_Program__c='Mentoring'; //commenting for commit
         insert testContact;   
         Case testCase = new Case();
         testCase.AccountId = testAccount.id;
