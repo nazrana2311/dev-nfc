@@ -7,6 +7,7 @@
     <types>
         <members>HomeLabel__c.Information__c</members>
         <members>HomeLabel__c.Name__c</members>
+        <members>HomeLabel__c.account__c</members>
         <name>CustomField</name>
     </types>
     <version>54.0</version>
