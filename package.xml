@@ -2,6 +2,13 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <version>55.0</version>
     <types>
+        <members>A10</members>
+        <members>A10Testclass</members>
+        <members>A11</members>
+        <members>A11Testclass</members>
+        <members>A12</members>
+        <members>A12Testclass</members>
+        <members>A30</members>
         <members>ABC</members>
         <members>APAC_Training_Automation_Test</members>
         <members>ApexAbc2</members>
